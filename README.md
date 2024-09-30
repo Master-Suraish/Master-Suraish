@@ -2,11 +2,6 @@
 
 <br/>
 
-## 💫 About Me:
-I’m the student of Bano Qabil 3.0 in which I’m learning about Frontend web development. 
-
-<br/>
-
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraish-kirshan) 
 
