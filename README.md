@@ -1,4 +1,4 @@
-# Hello everyone !👋 Hope you all are doing well ! 
+# 👋 Hi, I’m a frontend developer with hands-on experience in React JS, Tailwind CSS, Bootstrap 5, JavaScript, HTML, and CSS. 
 
 <br/>
 
