@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td width="60%" style="border: none;">
-      <!-- <p><b>✨ Who am I?</b></p> -->
+      <p><b>✨ Who am I?</b></p>
       <p>I'm a <b>Junior Full-Stack Developer</b> who transitioned from <b>Pre-Medical</b> to <b>Software Engineering</b>. I specialize in building logic out of chaos with the MERN stack.</p>
       <ul>
         <li>🔭 <b>Working at:</b> Bano Qabil Incubation Center</li>
