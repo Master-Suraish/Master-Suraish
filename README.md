@@ -1,6 +1,6 @@
 
 ---
-# 🚀 Quick Transmission
+## 🚀 Quick Transmission
 
 <table align="center">
   <tr>
@@ -20,7 +20,7 @@
 </table>
 
 
-# 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 <table>
   <tr>
@@ -59,7 +59,7 @@
 
 
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
 <table align="center">
   <tr>
@@ -94,7 +94,7 @@
       <p><b>Tech Stack:</b> EJS, JavaScript, CSS, Node.js, Express</p>
     </td>
     <td width="50%" align="center">
-      <img src="./images/bqicl.PNG" width="100%" style="border-radius:10px; border: 1px solid #30363d;" />
+      <img src="./images/bqicl.PNG" style="border-radius:10px; border: 1px solid #30363d;" />
     </td>
   </tr>
 </table>
@@ -114,7 +114,7 @@
       <p><b>Tech Stack:</b> React.js, Tailwind CSS, JavaScript (ES6+)</p>
     </td>
     <td width="50%" align="center">
-      <img src="./images/RedBlood.PNG" width="100%" style="border-radius:10px; border: 1px solid #30363d;" />
+      <img src="./images/RedBlood.PNG" width="100%" height="100%" style="border-radius:10px; border: 1px solid #30363d;" />
     </td>
   </tr>
 </table>
@@ -123,7 +123,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast&hide_border=false" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast&hide_border=false" />
 </p>
 
 
@@ -131,5 +131,5 @@
 # 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" width="100%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" />
 </div>
