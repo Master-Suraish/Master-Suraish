@@ -103,7 +103,7 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="50%" height="100%">
       <h3>🩸 RedBlood - Blood Donation Finder</h3>
       <p>A specialized <b>Frontend Application</b> to connect donors with seekers. Focused on a clean, urgent-response UI.</p>
       <ul>
@@ -113,23 +113,23 @@
       </ul>
       <p><b>Tech Stack:</b> React.js, Tailwind CSS, JavaScript (ES6+)</p>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" height="100%" align="center">
       <img src="./images/RedBlood.PNG" width="100%" height="100%" style="border-radius:10px; border: 1px solid #30363d;" />
     </td>
   </tr>
 </table>
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast&hide_border=false" width="80%" />
 </p>
 
 
 
-# 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true"  width="50%" />
 </div>
