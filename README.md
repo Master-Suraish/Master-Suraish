@@ -61,6 +61,24 @@
 
 ## 🌟 Featured Projects
 
+<table align="center" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td width="55%" style="padding: 10px;">
+      <h3>🩸 RedBlood - Blood Donation Finder</h3>
+      <p>A specialized <b>Frontend Application</b> to connect donors with seekers. Focused on a clean, urgent-response UI.</p>
+      <ul>
+        <li><b>Modern UI:</b> Mobile-first design for quick accessibility.</li>
+        <li><b>Dynamic Filtering:</b> React-based searching for donors.</li>
+        <li><b>Styling:</b> Tailwind CSS for a professional look.</li>
+      </ul>
+      <p><b>Tech Stack:</b> React.js, Tailwind CSS, JavaScript (ES6+)</p>
+    </td>
+    <td width="45%" align="center" style="padding: 0; border: 1px solid #30363d; border-radius: 10px; overflow: hidden;">
+      <img src="./images/RedBlood.PNG" width="100%" style="display: block; margin: 0;" />
+    </td>
+  </tr>
+</table>
+
 <table align="center">
   <tr>
     <td width="50%">
@@ -132,4 +150,17 @@
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true"  width="50%" />
+</div>
+
+
+
+## 📊 GitHub Stats
+
+
+
+<div style="display:flex; align-items:center; gap:5px">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true"  width="40%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast&hide_border=false" width="60%"/>
+
 </div>
