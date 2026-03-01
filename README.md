@@ -2,13 +2,13 @@
 
 <table align="center" width="100%">
   <tr>
-    <td style="border: 2px solid #30363d; padding:20px;">
+   <td style="border: 2px solid #30363d; padding:20px;">
       <p><b>✨ Who am I?</b></p>
-      <p>I'm a <b>Junior Full-Stack Developer</b> who transitioned from <b>Pre-Medical</b> to <b>Software Engineering</b>. I specialize in building logic out of chaos with the MERN stack.</p>
+      <p>I'm a <b>Junior Full-Stack Developer</b> currently building real-world web applications while pursuing my <b>BSCS degree</b>. I specialize in turning ideas into working web solutions using the <b>MERN stack</b>.</p>
       <ul>
         <li>🔭 <b>Working at:</b> Bano Qabil Incubation Center</li>
-        <li>🌱 <b>Mastering:</b> Scalable Backend Architecture with TypeScript</li>
-        <li>💬 <b>Ask me about:</b> React, Node.js & Databases</li>
+        <li>🌱 <b>Currently learning:</b> Full-Stack Development, Backend Architecture with Node.js & TypeScript</li>
+        <li>💬 <b>Ask me about:</b> React, Node.js, Databases, and Full-Stack Development</li>
       </ul>
     </td>
     <td width="40%" style="border: 2px solid #30363d; padding:0;">
@@ -34,7 +34,10 @@
   <tr>
     <td style="border: 2px solid #30363d; padding:15px;"><b>⚙️ Backend Development</b></td>
     <td style="border: 2px solid #30363d; padding:15px;">
-      <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb" />
+      <img src="https://skillicons.dev/icons?i=ts,nodejs,express" />
+      <img src="./images/zod-icon.png" height="48px"  style="border-radius:10px"  />
+      <img src="./images/mongoose-icon.png" height="48px" style="border-radius:10px" />
+      <img src="https://skillicons.dev/icons?i=mongodb" />
     </td>
   </tr>
 
@@ -73,7 +76,7 @@
       <p>A dynamic player bidding platform developed for the Bano Qabil Incubation tournament. Contributed as the <b>Frontend Developer</b>.</p>
       <ul>
         <li><b>Collaboration:</b> Worked closely with Backend Developers for data sync.</li>
-        <li><b>Scalability:</b> Used by 30+ PCs simultaneously during live events.</li>
+        <li><b>Scalability:</b> Used by 20+ PCs simultaneously during live events.</li>
         <li><b>Interface:</b> Built using EJS for server-side rendering.</li>
       </ul>
       <p><b>Tech Stack:</b> EJS, JavaScript, CSS, Node.js, Express</p>
