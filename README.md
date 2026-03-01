@@ -61,7 +61,7 @@
       <p><b>Tech Stack:</b> TypeScript, Node.js, Express, MongoDB, Mongoose, Zod, JWT, Bcrypt, Nodemailer</p>
     </td>
     <td width="50%" style="border: none; padding:0">
-      <img src="./images/FoodHub2.PNG" width="100%" style="display:block;" />
+      <img src="./images/FoodHub.PNG" width="100%" style="display:block;" />
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@
       <p><b>Tech Stack:</b> EJS, JavaScript, CSS, Node.js, Express</p>
     </td>
     <td width="50%" style="border: 2px solid #30363d; padding:0;">
-      <img src="./images/bqicl2.PNG" width="100%" style="display:block;" />
+      <img src="./images/bqicl.PNG" width="100%" style="display:block;" />
     </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@
       <p><b>Tech Stack:</b> React.js, Tailwind CSS, JavaScript (ES6+)</p>
     </td>
     <td width="50%" height="100%" style="border: 2px solid #30363d; padding:0;">
-      <img src="./images/RedBlood3.PNG" width="100%" height="100%" style="display:block;" />
+      <img src="./images/RedBlood.PNG" width="100%" height="100%" style="display:block;" />
     </td>
   </tr>
 </table>
