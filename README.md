@@ -1,59 +1,3 @@
-### 📊 GitHub Contribution Stats
-
-<p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" 
-    width="70%" 
-  />
-</p>
-
----
-
-### 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast&hide_border=true" 
-    width="70%" 
-  />
-</p>
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Master-Suraish&show_icons=true&theme=highcontrast&hide_border=true" 
-    width="70%" 
-  />
-</p>
-
-### 💻 Most Used Languages
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Suraish&layout=compact&theme=highcontrast&hide_border=true" 
-    width="70%" 
-  />
-</p>
-
-### 📊 Contribution Activity Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Master-Suraish&theme=high-contrast&hide_border=true" 
-    width="100%" 
-  />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Master-Suraish&theme=darkhub&no-frame=true&margin-w=10" 
-    width="100%" 
-  />
-</p>
-
 ### 🚀 Quick Intro
 
 <table align="center" width="100%">
@@ -178,3 +122,34 @@
     </td>
   </tr>
 </table>
+
+### 📊 GitHub Contribution Stats
+
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" 
+    width="70%" 
+  />
+</p>
+
+##
+
+### 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast&hide_border=true" 
+    width="70%" 
+  />
+</p>
+
+##
+
+### 📊 Contribution Activity Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Master-Suraish&theme=high-contrast&hide_border=true" 
+    width="70%" 
+  />
+</p>
