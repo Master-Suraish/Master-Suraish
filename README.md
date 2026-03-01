@@ -9,9 +9,10 @@
         <li>🔭 <b>Working at:</b> Bano Qabil Incubation Center</li>
         <li>🌱 <b>Currently learning:</b> Full-Stack Development, Backend Architecture with Node.js & TypeScript</li>
         <li>💬 <b>Ask me about:</b> React, Node.js, Databases, and Full-Stack Development</li>
+        <li>🌐 <b>Social:</b> Feel free to connect with me on <a href="https://www.linkedin.com/in/suraish-kirshan" target="_blank">Linkedin</a>, <b>follow my journey</b>, or <b>ask me questions</b>  about my projects!</li>
       </ul>
     </td>
-    <td width="40%" style="border: 2px solid #30363d; padding:0;">
+    <td width="50%" style="border: 2px solid #30363d; padding:0;">
       <img 
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
         width="100%"
@@ -62,6 +63,10 @@
         <li><b>Features:</b> Real-time order confirmation & automated email receipts.</li>
       </ul>
       <p><b>Tech Stack:</b> TypeScript, Node.js, Express, MongoDB, Mongoose, Zod, JWT, Bcrypt, Nodemailer</p>
+      <p>
+        <!-- <b>Live:</b> <a href="https://your-restaurant-webapp-live-link.com" target="_blank" style="padding-right:50px">FoodHub Live</a> -->
+        👨‍💻<b>Code:</b> <a href="https://github.com/Hafiz-Muhammad-Saad32/Food-Hub_Website/tree/project-code" target="_blank">GitHub Repo</a>
+      </p>
     </td>
     <td width="50%" style="border: none; padding:0">
       <img src="./images/FoodHub.PNG" width="100%" style="display:block;" />
@@ -80,6 +85,10 @@
         <li><b>Interface:</b> Built using EJS for server-side rendering.</li>
       </ul>
       <p><b>Tech Stack:</b> EJS, JavaScript, CSS, Node.js, Express</p>
+        <p>
+        <b>🌐Live:</b> <a href="https://bqicl.onrender.com/" target="_blank" style="padding-right:50px">BQICL Live</a>
+        <b>👨‍💻Code:</b> <a href="https://github.com/Banoqabil-Incuabtion-Center/bqicl" target="_blank">GitHub Repo</a>
+      </p>
     </td>
     <td width="50%" style="border: 2px solid #30363d; padding:0;">
       <img src="./images/bqicl.PNG" width="100%" style="display:block;" />
@@ -98,6 +107,10 @@
         <li><b>Styling:</b> Tailwind CSS for a professional look.</li>
       </ul>
       <p><b>Tech Stack:</b> React.js, Tailwind CSS, JavaScript (ES6+)</p>
+       <p>
+        <b>🌐Live:</b> <a href="https://master-suraish.github.io/WebWarp-ReactJS/React-Projects/Build-Folders/RedBlood.com-Build/index.html" target="_blank" style="padding-right:50px">RedBlood Live</a>
+        <b>👨‍💻Code:</b> <a href="https://github.com/Master-Suraish/WebWarp-ReactJS/tree/main/React-Projects/RedBlood.com" target="_blank">GitHub Repo</a>
+      </p>
     </td>
     <td width="50%" height="100%" style="border: 2px solid #30363d; padding:0;">
       <img src="./images/RedBlood.PNG" width="100%" height="100%" style="display:block;" />
