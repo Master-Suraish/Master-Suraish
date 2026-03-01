@@ -50,22 +50,7 @@
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="60%" style="border:2px solid #30363d; padding:20px;">
-      Text content
-    </td>
-    <td width="40%" style="border:2px solid #30363d; padding:0;">
-      <img 
-        src="./images/FoodHub2.PNG"
-        width="100%"
-        style="display:block; margin:0; padding:0;"
-      />
-    </td>
-  </tr>
-</table>
-
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="60%" style="border: 2px solid #30363d; padding:20px;">
+    <td width="40%" style="border: 2px solid #30363d; padding:20px;">
       <h3>🍽️ FoodHub - Full-Stack Restaurant Web App</h3>
       <p>A comprehensive E-commerce solution with core functionalities:</p>
       <ul>
@@ -75,7 +60,7 @@
       </ul>
       <p><b>Tech Stack:</b> TypeScript, Node.js, Express, MongoDB, Mongoose, Zod, JWT, Bcrypt, Nodemailer</p>
     </td>
-    <td width="40%" style="border: 2px solid #30363d; padding:0; margin:0;">
+    <td width="60%" style="border: 2px solid #30363d; padding:0; margin:0;">
       <img src="./images/FoodHub2.PNG" width="100%" style="display:block;" />
     </td>
   </tr>
@@ -120,9 +105,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" width="40%" />
 </p>
