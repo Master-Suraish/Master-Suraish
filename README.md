@@ -27,8 +27,8 @@
 
 <table width="100%">
   <tr>
-    <td width="100%" style="border: 2px solid #30363d; padding:15px;"><b>🌐 Frontend Development</b></td>
-    <td width="100%" style="border: 2px solid #30363d; padding:15px;">
+    <td style="border: 2px solid #30363d; padding:15px;"><b>🌐 Frontend Development</b></td>
+    <td style="border: 2px solid #30363d; padding:15px;">
       <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
     </td>
   </tr>
