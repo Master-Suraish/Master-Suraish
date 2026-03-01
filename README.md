@@ -1,3 +1,24 @@
+### 📊 GitHub Stats
+---
+<table width="100%" align="center" cellspacing="0" cellpadding="0" >
+  <tr style="border:none; padding:none;">
+    <td width="42%" align="center" style="border:none; padding:none;">
+      <img 
+        src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" 
+        width="100%" 
+        style="display:block;"
+      />
+    </td>
+     <td align="center" style="border:none; padding:none;">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast" 
+        width="100%" 
+        style="display:block;"
+      />
+    </td>
+  </tr>
+</table>
+
 ### 🚀 Quick Intro
 
 <table align="center" width="100%">
@@ -60,7 +81,7 @@
       </ul>
       <p><b>Tech Stack:</b> TypeScript, Node.js, Express, MongoDB, Mongoose, Zod, JWT, Bcrypt, Nodemailer</p>
     </td>
-    <td width="50%" style="border: 2px solid #30363d; padding:0; margin:0;">
+    <td width="50%" style="border: none; padding:0">
       <img src="./images/FoodHub2.PNG" width="100%" style="display:block;" />
     </td>
   </tr>
@@ -102,23 +123,3 @@
   </tr>
 </table>
 
-### 📊 GitHub Stats
-
-<table width="100%" align="center" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="42%" align="center">
-      <img 
-        src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" 
-        width="100%" 
-        style="display:block;"
-      />
-    </td>
-     <td align="center">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast" 
-        width="100%" 
-        style="display:block;"
-      />
-    </td>
-  </tr>
-</table>
