@@ -97,7 +97,7 @@
       <p><b>Tech Stack:</b> React.js, Tailwind CSS, JavaScript (ES6+)</p>
     </td>
     <td width="50%" height="100%" style="border: 2px solid #30363d; padding:0;">
-      <img src="./images/RedBlood2.PNG" width="100%" height="100%" style="display:block;" />
+      <img src="./images/RedBlood3.PNG" width="100%" height="100%" style="display:block;" />
     </td>
   </tr>
 </table>
