@@ -25,21 +25,21 @@
 
 <table width="100%">
   <tr>
-    <td width="30%" style="border: 2px solid #30363d; padding:15px;"><b>🌐 Frontend</b></td>
+    <td width="30%" style="border: 2px solid #30363d; padding:15px;"><b>🌐 Frontend Development</b></td>
     <td width="70%" style="border: 2px solid #30363d; padding:15px;">
       <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
     </td>
   </tr>
 
   <tr>
-    <td style="border: 2px solid #30363d; padding:15px;"><b>⚙️ Backend</b></td>
+    <td style="border: 2px solid #30363d; padding:15px;"><b>⚙️ Backend Development</b></td>
     <td style="border: 2px solid #30363d; padding:15px;">
       <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb" />
     </td>
   </tr>
 
   <tr>
-    <td style="border: 2px solid #30363d; padding:15px;"><b>🧰 Tools</b></td>
+    <td style="border: 2px solid #30363d; padding:15px;"><b>🧰  Tools & Testing</b></td>
     <td style="border: 2px solid #30363d; padding:15px;">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
     </td>
@@ -48,14 +48,34 @@
 
 ### 🌟 Featured Projects
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="60%" style="border:2px solid #30363d; padding:20px;">
+      Text content
+    </td>
+    <td width="40%" style="border:2px solid #30363d; padding:0;">
+      <img 
+        src="./images/FoodHub2.PNG"
+        width="100%"
+        style="display:block; margin:0; padding:0;"
+      />
+    </td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="60%" style="border: 2px solid #30363d; padding:20px;">
-      <h3>FoodHub - Full-Stack Restaurant Web App</h3>
-      <p>Admin & User dashboards, JWT Auth, Real-time orders.</p>
-      <p><b>Tech:</b> TypeScript, Node.js, Express, MongoDB</p>
+      <h3>🍽️ FoodHub - Full-Stack Restaurant Web App</h3>
+      <p>A comprehensive E-commerce solution with core functionalities:</p>
+      <ul>
+        <li><b>Portals:</b> Dedicated Admin, User, and Public dashboards.</li>
+        <li><b>Auth & Security:</b> Email verification (Nodemailer), Secure login (JWT, Bcrypt).</li>
+        <li><b>Features:</b> Real-time order confirmation & automated email receipts.</li>
+      </ul>
+      <p><b>Tech Stack:</b> TypeScript, Node.js, Express, MongoDB, Mongoose, Zod, JWT, Bcrypt, Nodemailer</p>
     </td>
-    <td width="40%" style="border: 2px solid #30363d; padding:0;">
+    <td width="40%" style="border: 2px solid #30363d; padding:0; margin:0;">
       <img src="./images/FoodHub2.PNG" width="100%" style="display:block;" />
     </td>
   </tr>
@@ -63,12 +83,17 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" style="border: 2px solid #30363d; padding:20px;">
-      <h3>BQICL - Real-Time Cricket Auction</h3>
-      <p>Live bidding platform used on 30+ PCs.</p>
-      <p><b>Tech:</b> EJS, JavaScript, Node.js, Express</p>
+    <td width="50%" style="border: 2px solid #30363d; padding:20px;">
+       <h3>🏏BQICL - Real-Time Cricket Auction System</h3>
+      <p>A dynamic player bidding platform developed for the Bano Qabil Incubation tournament. Contributed as the <b>Frontend Developer</b>.</p>
+      <ul>
+        <li><b>Collaboration:</b> Worked closely with Backend Developers for data sync.</li>
+        <li><b>Scalability:</b> Used by 30+ PCs simultaneously during live events.</li>
+        <li><b>Interface:</b> Built using EJS for server-side rendering.</li>
+      </ul>
+      <p><b>Tech Stack:</b> EJS, JavaScript, CSS, Node.js, Express</p>
     </td>
-    <td width="40%" style="border: 2px solid #30363d; padding:0;">
+    <td width="50%" style="border: 2px solid #30363d; padding:0;">
       <img src="./images/bqicl2.PNG" width="100%" style="display:block;" />
     </td>
   </tr>
@@ -76,13 +101,18 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" style="border: 2px solid #30363d; padding:20px;">
-      <h3>RedBlood - Blood Donation Finder</h3>
-      <p>Mobile-first React app with dynamic filtering.</p>
-      <p><b>Tech:</b> React, Tailwind CSS</p>
+    <td width="50%" style="border: 2px solid #30363d; padding:20px;">
+      <h3>🩸 RedBlood - Blood Donation Finder</h3>
+      <p>A specialized <b>Frontend Application</b> to connect donors with seekers. Focused on a clean, urgent-response UI.</p>
+      <ul>
+        <li><b>Modern UI:</b> Mobile-first design for quick accessibility.</li>
+        <li><b>Dynamic Filtering:</b> React-based searching for donors.</li>
+        <li><b>Styling:</b> Tailwind CSS for a professional look.</li>
+      </ul>
+      <p><b>Tech Stack:</b> React.js, Tailwind CSS, JavaScript (ES6+)</p>
     </td>
-    <td width="40%" style="border: 2px solid #30363d; padding:0;">
-      <img src="./images/RedBlood3.PNG" width="100%" style="display:block;" />
+    <td width="50%" height="100%" style="border: 2px solid #30363d; padding:0;">
+      <img src="./images/RedBlood3.PNG" width="100%" height="100%" style="display:block;" />
     </td>
   </tr>
 </table>
@@ -90,9 +120,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast"  />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" width="70%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" />
 </p>
