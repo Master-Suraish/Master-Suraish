@@ -4,7 +4,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" style="border: 2px solid #30363d; padding:20px;">
+    <td style="border: 2px solid #30363d; padding:20px;">
       <p><b>✨ Who am I?</b></p>
       <p>I'm a <b>Junior Full-Stack Developer</b> who transitioned from <b>Pre-Medical</b> to <b>Software Engineering</b>. I specialize in building logic out of chaos with the MERN stack.</p>
       <ul>
@@ -13,7 +13,7 @@
         <li>💬 <b>Ask me about:</b> React, Node.js & Databases</li>
       </ul>
     </td>
-    <td width="50%" style="border: 2px solid #30363d; padding:0;">
+    <td width="40%" style="border: 2px solid #30363d; padding:0;">
       <img 
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
         width="100%"
@@ -27,8 +27,8 @@
 
 <table width="100%">
   <tr>
-    <td width="30%" style="border: 2px solid #30363d; padding:15px;"><b>🌐 Frontend Development</b></td>
-    <td width="70%" style="border: 2px solid #30363d; padding:15px;">
+    <td width="100%" style="border: 2px solid #30363d; padding:15px;"><b>🌐 Frontend Development</b></td>
+    <td width="100%" style="border: 2px solid #30363d; padding:15px;">
       <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
     </td>
   </tr>
