@@ -128,37 +128,6 @@
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Master-Suraish&theme=high-contrast&hide_border=true" 
-    width="90%" 
-  />
-</p>
-
-### 📊 GitHub Contribution Stats
-
-<p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" 
-    width="70%" 
-  />
-</p>
-
-##
-
-### 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast&hide_border=true" 
-    width="70%" 
-  />
-</p>
-
-##
-
-### 📊 Contribution Activity Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Master-Suraish&theme=high-contrast&hide_border=true" 
-    width="70%" 
+    width="100%" 
   />
 </p>
