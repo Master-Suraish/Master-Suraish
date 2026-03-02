@@ -7,13 +7,13 @@ I'm a **Junior Full-Stack Developer** currently building real-world web applicat
 - 💬 **Ask me about:** React, Node.js, Databases, Full-Stack Development
 - 🌐 **Social:** [LinkedIn](https://www.linkedin.com/in/suraish-kirshan)
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" 
     width="50%" 
     style="max-width:800px;" 
   />
-</p>
+</p> -->
 
 ---
 
