@@ -58,7 +58,7 @@ A comprehensive E-commerce solution with core functionalities:
 <div align="center">
 <img 
   src="./images/FoodHub.PNG" 
-  width="80%" 
+  width="70%" 
   style="max-width:800px;" 
 />
 </div>
@@ -81,7 +81,7 @@ A dynamic player bidding platform developed for the Bano Qabil Incubation tourna
 <div align="center">
   <img 
     src="./images/bqicl.PNG" 
-    width="80%" 
+    width="70%" 
     style="max-width:800px;" 
   />
 </div>
@@ -104,7 +104,7 @@ A specialized **Frontend Application** to connect donors with seekers. Focused o
 <div align="center">
   <img 
     src="./images/RedBlood.PNG" 
-    width="80%" 
+    width="70%" 
     style="max-width:800px;" 
   />
 </div>
@@ -116,14 +116,14 @@ A specialized **Frontend Application** to connect donors with seekers. Focused o
 <p align="center">
   <img 
     src="https://github-contributor-stats.vercel.app/api?username=Master-Suraish&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" 
-    width="80%" 
+    width="70%" 
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Master-Suraish&theme=highcontrast" 
-    width="80%" 
+    width="70%" 
   />
 </p>
 
@@ -134,6 +134,6 @@ A specialized **Frontend Application** to connect donors with seekers. Focused o
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Master-Suraish&theme=high-contrast&hide_border=true" 
-    width="80%" 
+    width="70%" 
   />
 </p>
