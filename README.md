@@ -7,7 +7,7 @@ I'm a **Junior Full-Stack Developer** currently building real-world web applicat
 - 💬 **Ask me about:** React, Node.js, Databases, Full-Stack Development
 - 🌐 **Social:** [LinkedIn](https://www.linkedin.com/in/suraish-kirshan)
 
-<p align="right">
+<p align="center">
   <img 
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" 
     width="40%" 
@@ -43,10 +43,6 @@ I'm a **Junior Full-Stack Developer** currently building real-world web applicat
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-<div style="width:80%; max-width:800px; text-align:left;">
-
 ### 🍽️ FoodHub - Full-Stack Restaurant Web App
 
 A comprehensive E-commerce solution with core functionalities:
@@ -59,21 +55,15 @@ A comprehensive E-commerce solution with core functionalities:
 
 👨‍💻 **Code:** [FoodHub GitHub Repo](https://github.com/Hafiz-Muhammad-Saad32/Food-Hub_Website/tree/project-code)
 
-</div>
-
+<div align="center">
 <img 
-  src="./images/FoodHub.PNG" 
-  width="80%" 
+  src="./images/FoodHub2.PNG" 
+  width="70%" 
   style="max-width:800px;" 
 />
-
 </div>
 
 ---
-
-<div align="center">
-
-<div style="width:70%; max-width:800px; text-align:left;">
 
 ### 🏏 BQICL - Real-Time Cricket Auction System
 
@@ -88,19 +78,15 @@ A dynamic player bidding platform developed for the Bano Qabil Incubation tourna
 🌐 **Live:** [BQICL Live](https://bqicl.onrender.com/)
 👨‍💻 **Code:** [BQICL GitHub Repo](https://github.com/Banoqabil-Incuabtion-Center/bqicl)
 
-</div>
+<div align="center">
   <img 
-    src="./images/bqicl.PNG" 
+    src="./images/bqicl2.PNG" 
     width="70%" 
     style="max-width:800px;" 
   />
 </div>
 
 ---
-
-<div align="center">
-
-<div style="width:70%; max-width:800px; text-align:left;">
 
 ### 🩸 RedBlood - Blood Donation Finder
 
@@ -115,7 +101,7 @@ A specialized **Frontend Application** to connect donors with seekers. Focused o
 🌐 **Live:** [RedBlood Live](https://master-suraish.github.io/WebWarp-ReactJS/React-Projects/Build-Folders/RedBlood.com-Build/index.html)
 👨‍💻 **Code:** [RedBlood GitHub Repo](https://github.com/Master-Suraish/WebWarp-ReactJS/tree/main/React-Projects/RedBlood.com)
 
-</div>
+<div align="center">
   <img 
     src="./images/RedBlood.PNG" 
     width="70%" 
