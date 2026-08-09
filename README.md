@@ -1,6 +1,6 @@
 ## ✨ Who am I?
 
-I'm a **Junior Full-Stack Developer** currently building real-world web applications while pursuing my **BSCS degree**. I specialize in turning ideas into working web solutions using the **MERN stack**.
+I'm a **Full Stack Web Developer** currently building real-world web applications while pursuing my **BSCS degree**. I specialize in turning ideas into working web solutions using the **MERN stack**.
 
 - 🔭 **Working at:** Bano Qabil Incubation Center
 - 🌱 **Currently learning:** Backend Architecture with Node.js & TypeScript
